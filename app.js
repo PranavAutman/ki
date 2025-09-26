@@ -12,7 +12,7 @@ const APP_CONFIG = {
     apiEndpoints: {
         groww: 'https://groww.in/trade-api',
         // Add your Groww API key here
-        growwApiKey: 'YOUR_GROWW_API_KEY'
+        growwApiKey: 'FTPYURGXXVSFZULTWCC3AUDD6XDUSRT3'
     },
     refreshInterval: 5000, // 5 seconds for live data
     chartColors: {
